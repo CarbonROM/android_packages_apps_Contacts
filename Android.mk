@@ -44,7 +44,7 @@ LOCAL_REQUIRED_MODULES := privapp_whitelist_com.android.contacts
 LOCAL_PROGUARD_FLAG_FILES := proguard.flags
 
 LOCAL_SDK_VERSION := current
-LOCAL_MIN_SDK_VERSION := 21
+LOCAL_MIN_SDK_VERSION := 27
 
 include $(BUILD_PACKAGE)
 
