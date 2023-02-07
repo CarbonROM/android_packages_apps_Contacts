@@ -91,12 +91,6 @@
         <item name="android:contextPopupMenuStyle">@style/ContextPopupMenuStyle</item>
     </style>
 
-    <style name="LaunchScreenTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <item name="android:windowBackground">@drawable/quantum_launchscreen_contacts</item>
-        <item name="android:colorPrimary">@color/background_primary</item>
-        <item name="android:colorPrimaryDark">@color/primary_color</item>
-    </style>
-
     <style name="PeopleActivityTheme" parent="@style/PeopleThemeAppCompat">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
